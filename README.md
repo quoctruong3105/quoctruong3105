@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quoctruong3105&label=Profile%20views&color=0e75b6&style=flat" alt="quoctruong3105" /> </p>
 
-- 🔭 I’m currently working on [Smart Automotive Lighting](https://github.com/quoctruong3105/Smart-Automotive-Lighting)
+- 🔭 I’m currently working on [Adaptive Cruise Control](https://github.com/quoctruong3105/Adaptive-Cruise-Control)
 
 - 🌱 I’m currently learning **PIC micro-controller, QT C++**
 
